@@ -1,7 +1,7 @@
 MOC_DIR = ./moc
 OBJECTS_DIR = ./obj
 
-QT+=widgets
+QT+= gui declarative
 
 TARGET = image_abstraction
 
