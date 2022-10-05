@@ -800,7 +800,7 @@ float fnorm(Fimage in, Fimage ref, float *p, char *s, char *v, int *b,
 /* src/image/operations/fvar.c */
 float fvar(Fimage A, char *e, char *s);
 /* src/image/operations/fadd.c */
-Fimage fadd(Fimage A, Fimage B, Fimage C, float *min, float *max, char *a);
+/*Fimage fadd(Fimage A, Fimage B, Fimage C, float *min, float *max, char *a);*/
 /* src/image/operations/cfdiff.c */
 void cfdiff(char *absd, Cfimage A, Cfimage B, Cfimage O);
 /* src/image/operations/fpset.c */
